@@ -52,3 +52,6 @@ Run the `manage.sh` that is generated when you run `mvn clean package -DskipTest
 ```
 LAMBDA_ROLE_ARN=<YOUR_ARN> sh target/manage.sh create
 ```
+
+# Demo Video for AWS Lambda
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFG2LZIhzOw/0.jpg)](https://www.youtube.com/watch?v=BFG2LZIhzOw)
