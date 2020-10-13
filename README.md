@@ -45,6 +45,9 @@ The application can be packaged using:
 
 If you want to package a native executable, append `-Pnative` in the above maven command line.
 
+# Demo Video for OpenShift Serverless
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fQFVwoXWRto/0.jpg)](https://www.youtube.com/watch?v=fQFVwoXWRto)
+
 # Only for AWS Lambda deployemnt
 
 Run the `manage.sh` that is generated when you run `mvn clean package -DskipTests`:
